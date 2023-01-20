@@ -1,0 +1,22 @@
+{
+  "name": "e2enc",
+  "version": "1.0.0",
+  "description": "Task description: \r Create E2E tests for Login and Profile pages using the following test cases.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/disukhii/e2eNC.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/disukhii/e2eNC/issues"
+  },
+  "homepage": "https://github.com/disukhii/e2eNC#readme",
+  "devDependencies": {
+    "cypress": "^12.3.0"
+  }
+}
