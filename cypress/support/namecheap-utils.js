@@ -5,7 +5,9 @@ const user = {
     password: '123456'
 }
 const errorPopups = {
-    incorrectEmailOrPassword: 'Uh oh! Email or password is incorrect'
+    incorrectEmailOrPassword: 'Uh oh! Email or password is incorrect',
+    notEmail: 'Uh oh! Thisisn’t an email',
+    notPassword: 'Uh oh! Thisisn’t a password'
 }
 function randomString(length, email = false) {
     let result           = '';
