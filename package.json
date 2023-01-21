@@ -4,7 +4,8 @@
   "description": "Task description: \r Create E2E tests for Login and Profile pages using the following test cases.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "cy:open": "cypress open",
+    "cy:run": "cypress run --headed"
   },
   "repository": {
     "type": "git",
