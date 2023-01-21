@@ -1,8 +1,13 @@
 
 const url = 'https://www.sbzend.ssls.com'
 const user = {
+    name: 'Tom Ford',
     email: 'ssls.automation+666@gmail.com',
-    password: '123456'
+    password: '123456',
+    phone: '+380 12312312',
+    address: 'Diagon alley 21, Misto, Uryupinsk 612120, Ukraine',
+    supportPin: 'wUzL',
+    newsLetter: 'Include in mailing list'
 }
 const errorPopups = {
     incorrectEmailOrPassword: 'Uh oh! Email or password is incorrect',

@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/disukhii/e2eNC#readme",
   "devDependencies": {
-    "cypress": "^12.3.0"
+    "cypress": "^12.3.0",
+    "cypress-xpath": "^2.0.1"
   }
 }
